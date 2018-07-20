@@ -4,7 +4,7 @@
 
 UPLOADER_VERSION=2.12
 # Put your TestFairy API_KEY here. Find it here: https://app.testfairy.com/settings/#tab-api-key
-TESTFAIRY_API_KEY=9d8c9d3aba8307f265b5afe1e14d772017eeac1c
+TESTFAIRY_API_KEY=9e80901bd80c76d37a6dd2cfd816845a4c568084
 
 # Tester Groups that will be notified when the app is ready. Setup groups in your TestFairy account testers page.
 # This parameter is optional, leave empty if not required
